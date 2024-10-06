@@ -25,7 +25,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.sender
     let taguser = '@' + m.sender.split("@s.whatsapp.net")[0];
   await conn.sendMessage(m.chat, { react: { text: '📂', key: m.key } })
-  const zack = 'https://envs.sh/wHc.jpg'
+  const zack = 'https://envs.sh/Bre.jpg'
   const mentionId = m.key.participant || m.key.remoteJid;
  
 conn.relayMessage(m.chat, { viewOnceMessage: { message: { interactiveMessage: { header: { title: `harley`}, body: { text: `˼⚡˹↜ مـࢪحـبـا بـك/ي @${mentionId.split('@')[0]}
@@ -39,7 +39,7 @@ conn.relayMessage(m.chat, { viewOnceMessage: { message: { interactiveMessage: { 
 ╯───────────────────⟢ـ
 > ˼🤖˹↜ الــبــوت↶
 ╮───────────────────⟢ـ
-┆⚙️ ↜اسـم الـبـوت↶﹝Mando﹞
+┆⚙️ ↜اسـم الـبـوت↶﹝𝑀𝐴𝑁𝐷𝛩﹞
 ┆🪄 ↜الـمـطـور ↶﹝MANDO﹞
 ┆📌 ↜الـتـشـغـيـل ↶﹝${uptime}﹞
 ┆🔖 ↜الــمــســتـخـدمـيـن ↶﹝${rtotalreg}﹞
