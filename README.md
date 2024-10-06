@@ -1,5 +1,5 @@
 <p align="center">
- <img width="180px" src="https://envs.sh/wHc.jpg" align="center"/>
+ <img width="180px" src="https://envs.sh/Bre.jpg" align="center"/>
  <h2 align="center">TheFlash-Bot-MD</h2>
  <p align="center">Este bot fue desarrollado por Zack y Naruto.</p>
 </p>
@@ -12,9 +12,9 @@
 
 # `Flash-Bot` 
 
-# `تــم صــنــع وتــطــويــر هــذا الــبــوت بــواســطــة عــراب زاك و نــاروتــو` 
+# `تــم صــنــع وتــطــويــر هــذا الــبــوت بــواســطــة ماندو` 
 <p align="center">
-<img src="https://envs.sh/06H.jpg" alt="⁨عــراب زاك⁩" width="900"/>
+<img src="https://envs.sh/Bre.jpg" alt="ماندو⁩" width="900"/>
 </p>
 
 ------------------
